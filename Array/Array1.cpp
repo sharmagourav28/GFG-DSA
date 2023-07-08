@@ -1,4 +1,6 @@
 #include <stdio.h>
+// insert at end
+
 int insertSorted(int arr[], int n, int key, int capacity)
 {
 
