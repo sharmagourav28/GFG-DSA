@@ -1,2 +1,9 @@
-cout << node1->data << endl;
-    // cout << node1->next << endl;
+ // ~Node()
+    // {
+    //     int value = this->data;
+    //     if (this->next != NULL)
+    //     {
+    //         delete next;
+    //         this->next = NULL;
+    //     }
+    // }
