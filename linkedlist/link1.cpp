@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// Insert at begining of the linkedlist :
 class Node
 {
 public:
