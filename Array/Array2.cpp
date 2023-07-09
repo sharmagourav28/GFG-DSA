@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// insert at sepecific postion
 void insertElement(int arr[], int n, int pos, int ele)
 {
     for (int i = n - 1; i >= pos; i--)
